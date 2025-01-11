@@ -34,3 +34,5 @@ Error Handling:
 The application checks for invalid input (e.g., division by zero or invalid symbols) and displays appropriate error messages.
 
 DEMO MODEL:
+
+![cal](https://github.com/user-attachments/assets/61b50684-d851-4122-b152-60d02d7bec8f)
